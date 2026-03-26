@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Rishikanth Manimeli
+# Hi there 👋, I'm Rishikanth Manimeli [<img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/snorlax.png" alt="Snorlax" width="100">](https://pokemondb.net/pokedex/snorlax)
+<!--
+[![Snorlax](https://img.pokemondb.net/sprites/scarlet-violet/normal/snorlax.png)](https://pokemondb.net/pokedex/snorlax)
+-->
 ### A computer science student at UMass Amherst
 
 <!--
