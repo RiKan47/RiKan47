@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" />
 
 ### 👨‍💻 About Me
-I am a systems-focused Software Engineer passionate about building highly scalable, fault-tolerant distributed systems and intelligent agentic workflows. Currently pursuing my **MS in Computer Science at UMass Amherst (4.0 GPA)**, I specialize in the intersection of high-performance backend architecture and Generative AI.
+I am a systems-focused Software Engineer passionate about building highly scalable, fault-tolerant distributed systems and intelligent agentic workflows. Currently pursuing my **MS in Computer Science at UMass Amherst**, I specialize in the intersection of high-performance backend architecture and Generative AI.
 
 Previously, as a **Senior Software Engineer at Samsung R&D**, I tackled deep system-level bottlenecks for large-scale enterprise deployments. By profiling and optimizing core C++ modules in a Linux environment, I significantly reduced CPU cycle consumption and increased overall LTE throughput for modems.
 
